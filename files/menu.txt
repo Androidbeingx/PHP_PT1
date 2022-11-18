@@ -1,0 +1,35 @@
+01;drink;Water;1.70
+02;appetiser;Iberian ham, zucchini and pesto sandwiches;3.50
+03;maincourse;Pork tenderloin Wellington with roasted potatoes and mushroom sauce;6.40
+04;firstcourse;Peppers stuffed with zucchini, ham and cheese;5.70
+05;dessert;Cheesecake;4.50
+06;drink;Beer;2.75
+07;maincourse;Codfish Rioja style;7.80
+08;appetiser;Spinach and blue cheese croquettes;3.40
+09;appetiser;Quail eggs with almonds;2.60
+10;drink;Red wine;2.50
+11;drink;White wine;2.70
+12;dessert;Chocolate coulant;3.50
+13;firstcourse;Chicken and zucchini cannelloni;8.35
+14;firstcourse;Arugula and strawberry salad;5.75
+15;maincourse;Round steak in black beer sauce;8.20
+16;dessert;Apple pie;3.45
+17;dessert;Rice pudding;3.45
+18;maincourse;Pork chops with apple puree and mushroom bricks;8.90
+19;firstcourse;Vegetable soup with potato noodles;6.75
+20;appetiser;Brie bites with tomato marmalade;3.25
+21;drink;Gin-Tonic;3.15
+22;drink;Sangría jug;5.25
+23;dessert;Flan;2.75
+24;firstcourse;Fresh pasta carbonara;6.75
+25;maincourse;Salmon with aioli and vegetables;9.15
+26;maincourse;Quails in sauce;8.20
+27;appetiser;Mushroom pâté with thyme and Marsala;3.35
+28;firstcourse;Paella;8.65
+29;firstcourse;Fideuá;8.70
+30;appetiser;Potato and onion confit omelet;5.45
+31;maincourse;Fried roosterfish with green beans and rice with peppers;7.90
+32;dessert;Ice Cream;2.50
+33;dessert;Seasonal Fruit;2.50
+34;drink;Fanta;1.80
+35;drink;Coca-cola;1.80

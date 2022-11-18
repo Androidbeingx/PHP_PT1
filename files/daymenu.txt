@@ -1,0 +1,15 @@
+01;drink;Red wine
+02;dessert;Seasonal Fruit;2.50
+03;maincourse;Round steak in black beer sauce
+04;appetiser;Spinach and blue cheese croquettes
+05;drink;Water
+06;dessert;Chocolate coulant
+07;maincourse;Codfish Rioja style
+08;firstcourse;Arugula and strawberry salad;5.75
+09;appetiser;Potato and onion confit omelet
+10;drink;Beer
+11;maincourse;Pork chops with apple puree and mushroom bricks
+12;firstcourse;Fideuá
+13;firstcourse;Fresh pasta carbonara
+14;dessert;Rice pudding
+15;appetiser;Mushroom pâté with thyme and Marsala
